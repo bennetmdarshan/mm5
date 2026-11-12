@@ -1,0 +1,16 @@
+THE ANGEL PRINCESS FILES — THE LAST WALTZ
+A photographic mystery for Tania, with love from Ben.
+
+UPLOAD TO GITHUB
+1. Extract this ZIP.
+2. Upload index.html, styles.css, app.js, data.js, and the ENTIRE assets folder
+   into the root of your GitHub repository. Include .nojekyll if visible.
+3. Settings > Pages > Deploy from a branch > main > /(root) > Save.
+4. Open the Pages URL GitHub gives you.
+
+Do not upload just the HTML. It needs the image folder and the other files.
+No build step, API key or installation is needed.
+
+The README contains detailed setup and playing instructions.
+The final card includes your exact message and a heart animation.
+The story and its solution are unchanged from the first edition.
